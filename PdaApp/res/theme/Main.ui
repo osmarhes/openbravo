@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<component type="Form" name="Main" cloudDestinationProperty="Main" title="Hi World" >
+  <component type="Label" name="Label" cloudDestinationProperty="Label" text="" icon="shinjiru.png" >
+  </component>
+  <component type="Label" name="lblLogin" cloudDestinationProperty="Label" text="Login" >
+  </component>
+  <component type="TextField" name="TextField" cloudBoundProperty="text" cloudDestinationProperty="TextField" text="" >
+  </component>
+</component>
